@@ -1,1 +1,8 @@
-
+{
+    "name": "fikriyasilfiya-maker/stemming-sastrawi",
+    "description": "Demo stemming Bahasa Indonesia dengan Sastrawi",
+    "require": {
+        "php": ">=7.0",
+        "sastrawi/sastrawi": "^1.0"
+    }
+}
